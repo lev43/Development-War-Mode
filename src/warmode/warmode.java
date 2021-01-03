@@ -33,10 +33,10 @@ public class warmode extends Mod{
             LoadedMod mod = Vars.mods.locateMod("warmode");
             Func<String, String> stringf = value -> Core.bundle.get("mod." + value);
 
-            mod.meta.displayName = stringf.get(mod.meta.name + ".name");
-            mod.meta.description = stringf.get(mod.meta.name + ".description");
-            mod.meta.version = mod.meta.version + "\n" + stringf.get(mod.meta.name + ".short");
-            mod.meta.author = "[royal]" + mod.meta.author + "[]";
+            //mod.meta.displayName = stringf.get(mod.meta.name + ".name");
+            //mod.meta.description = stringf.get(mod.meta.name + ".description");
+            //mod.meta.version = mod.meta.version + "\n" + stringf.get(mod.meta.name + ".short");
+            //mod.meta.author = "[royal]" + mod.meta.author + "[]";
         }
     }
 

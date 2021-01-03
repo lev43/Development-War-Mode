@@ -1,14 +1,3 @@
-warmode/content/WarItems.java
- warmode.content.WarItems
- warmode.content.WarItems$1
- warmode.content.WarItems$2
- warmode.content.WarItems$3
-warmode/content/OverWriter.java
- warmode.content.OverWriter
-warmode/content/SettingAdder.java
- warmode.content.SettingAdder
-warmode/graphics/Drawm.java
- warmode.graphics.Drawm
 warmode/content/WarBlocks.java
  warmode.content.WarBlocks
  warmode.content.WarBlocks$1
@@ -21,6 +10,8 @@ warmode/content/WarBlocks.java
  warmode.content.WarBlocks$8
 warmode/warmode.java
  warmode.warmode
+warmode/content/SettingAdder.java
+ warmode.content.SettingAdder
 warmode/content/WarBullets.java
  warmode.content.WarBullets
  warmode.content.WarBullets$1
@@ -48,3 +39,12 @@ warmode/content/WarBullets.java
  warmode.content.WarBullets$9
  warmode.content.WarBullets$9$1
  warmode.content.WarBullets$9$1$1
+warmode/graphics/Drawm.java
+ warmode.graphics.Drawm
+warmode/content/OverWriter.java
+ warmode.content.OverWriter
+warmode/content/WarItems.java
+ warmode.content.WarItems
+ warmode.content.WarItems$1
+ warmode.content.WarItems$2
+ warmode.content.WarItems$3
