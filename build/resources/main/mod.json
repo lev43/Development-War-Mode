@@ -1,0 +1,8 @@
+{
+  "name": "warmode",
+  "displayName": "[red]Development [white]War Mode",
+  "description": "Это не готовая версия War Mode. Данный мод продолжает TurretsMod",
+  "author": "[#9D9D9D]lev43",
+  "version": "1.0-pre-alpha",
+  "minGameVersion": 122.0
+}
