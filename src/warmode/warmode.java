@@ -15,6 +15,7 @@ public class warmode extends Mod{
     public static SettingAdder settingAdder = new SettingAdder();
 
     private final ContentList[] WarContent = {
+        new WarItems(),
         new WarBullets(),
         new WarBlocks()
     };
