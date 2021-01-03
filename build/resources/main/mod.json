@@ -4,5 +4,6 @@
   "description": "Это не готовая версия War Mode. Данный мод продолжает TurretsMod",
   "author": "[#9D9D9D]lev43",
   "version": "1.0-pre-alpha",
-  "minGameVersion": 122.0
+  "minGameVersion": 122.0,
+  "main": "warmode"
 }
